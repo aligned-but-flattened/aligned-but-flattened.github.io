@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alignment but Flattening
 
 Static GitHub Pages project page for:
@@ -16,3 +17,6 @@ Static GitHub Pages project page for:
 ## Deploy
 
 Upload the contents of this folder to a GitHub Pages repository root, or place them under `docs/` and configure Pages to serve from `docs/`.
+=======
+# homepage
+>>>>>>> c7e0886542101f1343caeb9fe1e4aa37367346f6
